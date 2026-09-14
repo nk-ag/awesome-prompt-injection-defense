@@ -75,6 +75,7 @@ Not strictly prompt-injection but commonly composed with it.
 - [agentcast](https://github.com/MukundaKatta/agentcast) - Validate-and-retry loop for structured outputs.
 - [agentsnap](https://github.com/MukundaKatta/agentsnap) - Snapshot tests for tool-call traces.
 - [agentfit](https://github.com/MukundaKatta/agentfit) - Token-aware message truncation.
+- [Failproof](https://github.com/FailproofAI/failproofai) - Learn from agent traces to find failure modes and fix them with policies.
 
 ## Background reading
 
